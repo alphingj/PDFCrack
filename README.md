@@ -40,8 +40,8 @@ By using this tool, you agree to use it responsibly and legally.
 
 ```bash
 # Clone the repository
-git clone https://github.com/alphingj/pdf-password-cracker.git
-cd pdf-password-cracker
+git clone https://github.com/alphingj/pdfcrack.git
+cd pdfcrack
 
 # Create virtual environment
 python3 -m venv venv
