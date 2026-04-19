@@ -1,0 +1,1 @@
+echo "pikepdf>=8.0.0" > requirements.txt
